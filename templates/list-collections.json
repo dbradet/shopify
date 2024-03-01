@@ -1,1 +1,97 @@
-{"sections":{"main":{"type":"list-collections-template","blocks":{"b6fa6aad-df9f-48e1-b202-b8f9c3598b91":{"type":"collection","settings":{"collection":"building-tools"}},"2069f5d9-6d79-47f9-9a87-16587f96becb":{"type":"collection","settings":{"collection":"collection-papyhobby-quick-delivery"}},"60d79092-6055-4ef0-a135-743210b1e2c0":{"type":"collection","settings":{"collection":"diecast-scale-1-50-truck-custom-build"}},"6b2f7812-e915-495a-928f-78bd28c0902f":{"type":"collection","settings":{"collection":"diecast"}},"760024e9-fd5d-4510-bc1f-7fbab3ad5584":{"type":"collection","settings":{"collection":"diecast-master"}},"3249aa05-fa03-4876-9706-01e774c2a09e":{"type":"collection","settings":{"collection":"diecast-on-sale-products"}}},"block_order":["b6fa6aad-df9f-48e1-b202-b8f9c3598b91","2069f5d9-6d79-47f9-9a87-16587f96becb","60d79092-6055-4ef0-a135-743210b1e2c0","6b2f7812-e915-495a-928f-78bd28c0902f","760024e9-fd5d-4510-bc1f-7fbab3ad5584","3249aa05-fa03-4876-9706-01e774c2a09e"],"settings":{"image_overlay_color":"#000000","image_overlay_opacity":40,"title":"Categories","show_breadcrumbs":false,"collection_grid_display":"full_image","collection_image_height":310,"display_type":"selected","sort":"alphabetical","grid":5,"grid_mobile":"1"}},"6408f586-fc6e-4745-968e-2d523f774f0b":{"type":"rich-text","settings":{"content_width":"100","bg_color":"","section_color":"","rte_icon_width":100,"section_title":"Production process","subtitle":"a bit about us","text":"<p>At PAPYHOBBY, we excel in crafting using multiple techniques like 3D FDM and SLA Printing, Resin Casting, Resin 3D Printing, and Laser Cut and Engrave. We start with meticulous molding and scratch building, emphasizing patience and accuracy.<\/p><p>Our 3D printing techniques bring designs to life with precision, while Resin Casting allows us to replicate with exact detail. Resin 3D Printing captures fine nuances, turning imagination into reality.  Laser Cut techniques add another layer of intricacy to our creations.<\/p><p>Molds serve as our canvas, showcasing our commitment to craftsmanship. <\/p><p>At PAPYHOBBY, each creation reflects our dedication to patient and accurate artistry.<\/p>","text_size":"medium"}},"ec1a50a4-29ba-43d7-a68e-d23867cd4fac":{"type":"advanced-search","settings":{"image":"shopify:\/\/shop_images\/hero_slide_1.jpg","content_side":"left","title":"","subtitle":"Advanced search","content":"","button_style":"primary","text_color":"#ffffff","color_image_overlay":"","image_overlay_opacity":72}}},"order":["main","6408f586-fc6e-4745-968e-2d523f774f0b","ec1a50a4-29ba-43d7-a68e-d23867cd4fac"]}
+{
+  "sections": {
+    "main": {
+      "type": "list-collections-template",
+      "blocks": {
+        "b6fa6aad-df9f-48e1-b202-b8f9c3598b91": {
+          "type": "collection",
+          "settings": {
+            "collection": "building-tools"
+          }
+        },
+        "2069f5d9-6d79-47f9-9a87-16587f96becb": {
+          "type": "collection",
+          "settings": {
+            "collection": "collection-papyhobby-quick-delivery"
+          }
+        },
+        "60d79092-6055-4ef0-a135-743210b1e2c0": {
+          "type": "collection",
+          "settings": {
+            "collection": "custom-build"
+          }
+        },
+        "6b2f7812-e915-495a-928f-78bd28c0902f": {
+          "type": "collection",
+          "settings": {
+            "collection": "diecast"
+          }
+        },
+        "760024e9-fd5d-4510-bc1f-7fbab3ad5584": {
+          "type": "collection",
+          "settings": {
+            "collection": "diecast-master"
+          }
+        },
+        "3249aa05-fa03-4876-9706-01e774c2a09e": {
+          "type": "collection",
+          "settings": {
+            "collection": "diecast-on-sale-products"
+          }
+        }
+      },
+      "block_order": [
+        "b6fa6aad-df9f-48e1-b202-b8f9c3598b91",
+        "2069f5d9-6d79-47f9-9a87-16587f96becb",
+        "60d79092-6055-4ef0-a135-743210b1e2c0",
+        "6b2f7812-e915-495a-928f-78bd28c0902f",
+        "760024e9-fd5d-4510-bc1f-7fbab3ad5584",
+        "3249aa05-fa03-4876-9706-01e774c2a09e"
+      ],
+      "settings": {
+        "image_overlay_color": "#000000",
+        "image_overlay_opacity": 40,
+        "title": "Categories",
+        "show_breadcrumbs": false,
+        "collection_grid_display": "full_image",
+        "collection_image_height": 310,
+        "display_type": "selected",
+        "sort": "alphabetical",
+        "grid": 5,
+        "grid_mobile": "1"
+      }
+    },
+    "6408f586-fc6e-4745-968e-2d523f774f0b": {
+      "type": "rich-text",
+      "settings": {
+        "content_width": "100",
+        "bg_color": "",
+        "section_color": "",
+        "rte_icon_width": 100,
+        "section_title": "Production process",
+        "subtitle": "a bit about us",
+        "text": "<p>At PAPYHOBBY, we excel in crafting using multiple techniques like 3D FDM and SLA Printing, Resin Casting, Resin 3D Printing, and Laser Cut and Engrave. We start with meticulous molding and scratch building, emphasizing patience and accuracy.<\/p><p>Our 3D printing techniques bring designs to life with precision, while Resin Casting allows us to replicate with exact detail. Resin 3D Printing captures fine nuances, turning imagination into reality.  Laser Cut techniques add another layer of intricacy to our creations.<\/p><p>Molds serve as our canvas, showcasing our commitment to craftsmanship. <\/p><p>At PAPYHOBBY, each creation reflects our dedication to patient and accurate artistry.<\/p>",
+        "text_size": "medium"
+      }
+    },
+    "ec1a50a4-29ba-43d7-a68e-d23867cd4fac": {
+      "type": "advanced-search",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/hero_slide_1.jpg",
+        "content_side": "left",
+        "title": "",
+        "subtitle": "Advanced search",
+        "content": "",
+        "button_style": "primary",
+        "text_color": "#ffffff",
+        "color_image_overlay": "",
+        "image_overlay_opacity": 72
+      }
+    }
+  },
+  "order": [
+    "main",
+    "6408f586-fc6e-4745-968e-2d523f774f0b",
+    "ec1a50a4-29ba-43d7-a68e-d23867cd4fac"
+  ]
+}

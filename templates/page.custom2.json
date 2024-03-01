@@ -1,1 +1,125 @@
-{"sections":{"main":{"type":"main-page","settings":{"image_overlay_color":"#000000","image_overlay_opacity":40,"show_breadcrumbs":true,"show_page_content":true}},"5dbb23a5-8a60-4867-a722-4258dc124ca6":{"type":"index-custom-section","custom_css":[".top-content {display: flex; justify-content: center; align-items: flex-start; height: 50vh; \/* Adjust as needed *\/}"],"settings":{"section_width":"page-width-small","title":"","subtitle":"","html":"Please submit all your detailed informations down bellow. <br>We are going to comeback to you as soon as we've\n          done the review and be ready to work on a project with you.\n          <br><br>\n          <div class=\"top-content\">\n    <div class=\"fb-page\" data-tabs=\"messages\" data-href=\"https:\/\/www.facebook.com\/papyhobby\" data-width=\"500\" data-hide-cover=\"false\"><\/div>\n<\/div>"}},"170434046525088df0":{"type":"apps","blocks":{"2a3c6df8-1b69-4f84-8ee3-3f7114836ac0":{"type":"shopify:\/\/apps\/judge-me-reviews\/blocks\/medals\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","settings":{}}},"block_order":["2a3c6df8-1b69-4f84-8ee3-3f7114836ac0"],"settings":{"include_margins":true}},"43ff08c4-8674-4933-89fc-48d1632ffc45":{"type":"rich-text","settings":{"content_width":"50","bg_color":"","section_color":"","rte_icon":"shopify:\/\/shop_images\/logo-2k24-01_-_700x1024_d9afcb8f-3a20-417c-b81b-e2cf0add6be8.png","rte_icon_width":245,"section_title":"Our social media presence","subtitle":"","text":"","text_size":"small"}},"1704340523dfad24a7":{"type":"apps","blocks":{"56ac9b31-5e90-411b-8d04-a370064edb80":{"type":"shopify:\/\/apps\/judge-me-reviews\/blocks\/ugc_media_grid\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","settings":{}}},"block_order":["56ac9b31-5e90-411b-8d04-a370064edb80"],"settings":{"include_margins":true}},"b66283e7-bba7-4a97-9a28-00096dc38256":{"type":"featured-products","blocks":{"template--16347973910724__b66283e7-bba7-4a97-9a28-00096dc38256-collection-1":{"type":"collection","settings":{"heading":"","collection_handle":"diecast-scale-1-50-truck-custom-build","max_products_count":40}}},"block_order":["template--16347973910724__b66283e7-bba7-4a97-9a28-00096dc38256-collection-1"],"settings":{"title":"History Resume","subtitle":"Here are some of our personalized creations","navigation_style":"large","show_vendor":true,"grid":5,"grid_mobile":"1","enable_carousel":true,"show_dots":true,"show_arrows":true,"enable_autoplay":false,"cycle_speed":5}},"17043406928f4a0248":{"type":"apps","blocks":{"381ef7ac-9575-4190-b670-8eb50a47de3b":{"type":"shopify:\/\/apps\/judge-me-reviews\/blocks\/verified_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","settings":{}}},"block_order":["381ef7ac-9575-4190-b670-8eb50a47de3b"],"settings":{"include_margins":false}}},"order":["main","5dbb23a5-8a60-4867-a722-4258dc124ca6","170434046525088df0","43ff08c4-8674-4933-89fc-48d1632ffc45","1704340523dfad24a7","b66283e7-bba7-4a97-9a28-00096dc38256","17043406928f4a0248"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "image_overlay_color": "#000000",
+        "image_overlay_opacity": 40,
+        "show_breadcrumbs": true,
+        "show_page_content": true
+      }
+    },
+    "5dbb23a5-8a60-4867-a722-4258dc124ca6": {
+      "type": "index-custom-section",
+      "custom_css": [
+        ".top-content {display: flex; justify-content: center; align-items: flex-start; height: 50vh; \/* Adjust as needed *\/}"
+      ],
+      "settings": {
+        "section_width": "page-width-small",
+        "title": "",
+        "subtitle": "",
+        "html": "Please submit all your detailed informations down bellow. <br>We are going to comeback to you as soon as we've\n          done the review and be ready to work on a project with you.\n          <br><br>\n          <div class=\"top-content\">\n    <div class=\"fb-page\" data-tabs=\"messages\" data-href=\"https:\/\/www.facebook.com\/papyhobby\" data-width=\"500\" data-hide-cover=\"false\"><\/div>\n<\/div>"
+      }
+    },
+    "170434046525088df0": {
+      "type": "apps",
+      "blocks": {
+        "2a3c6df8-1b69-4f84-8ee3-3f7114836ac0": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/medals\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "2a3c6df8-1b69-4f84-8ee3-3f7114836ac0"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "43ff08c4-8674-4933-89fc-48d1632ffc45": {
+      "type": "rich-text",
+      "settings": {
+        "content_width": "50",
+        "bg_color": "",
+        "section_color": "",
+        "rte_icon": "shopify:\/\/shop_images\/logo-2k24-01_-_700x1024_d9afcb8f-3a20-417c-b81b-e2cf0add6be8.png",
+        "rte_icon_width": 245,
+        "section_title": "Our social media presence",
+        "subtitle": "",
+        "text": "",
+        "text_size": "small"
+      }
+    },
+    "1704340523dfad24a7": {
+      "type": "apps",
+      "blocks": {
+        "56ac9b31-5e90-411b-8d04-a370064edb80": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/ugc_media_grid\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "56ac9b31-5e90-411b-8d04-a370064edb80"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "b66283e7-bba7-4a97-9a28-00096dc38256": {
+      "type": "featured-products",
+      "blocks": {
+        "template--16347973910724__b66283e7-bba7-4a97-9a28-00096dc38256-collection-1": {
+          "type": "collection",
+          "settings": {
+            "heading": "",
+            "collection_handle": "custom-build",
+            "max_products_count": 40
+          }
+        }
+      },
+      "block_order": [
+        "template--16347973910724__b66283e7-bba7-4a97-9a28-00096dc38256-collection-1"
+      ],
+      "settings": {
+        "title": "History Resume",
+        "subtitle": "Here are some of our personalized creations",
+        "navigation_style": "large",
+        "show_vendor": true,
+        "grid": 5,
+        "grid_mobile": "1",
+        "enable_carousel": true,
+        "show_dots": true,
+        "show_arrows": true,
+        "enable_autoplay": false,
+        "cycle_speed": 5
+      }
+    },
+    "17043406928f4a0248": {
+      "type": "apps",
+      "blocks": {
+        "381ef7ac-9575-4190-b670-8eb50a47de3b": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/verified_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "381ef7ac-9575-4190-b670-8eb50a47de3b"
+      ],
+      "settings": {
+        "include_margins": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "5dbb23a5-8a60-4867-a722-4258dc124ca6",
+    "170434046525088df0",
+    "43ff08c4-8674-4933-89fc-48d1632ffc45",
+    "1704340523dfad24a7",
+    "b66283e7-bba7-4a97-9a28-00096dc38256",
+    "17043406928f4a0248"
+  ]
+}
