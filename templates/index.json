@@ -186,7 +186,7 @@
         "text": "<p>Buy a WHEEL LOADER and get a PAPYHOBBY Pusher Snow Plow for FREE!<br\/><br\/>Offer expire - February 29th 2024<\/p>",
         "button_style": "primary",
         "button_label": "Offer HERE",
-        "button_link": "shopify:\/\/collections\/promo-jan-2024"
+        "button_link": "shopify:\/\/collections\/promo-wheel-loader"
       }
     },
     "index_custom_section_dTTric": {
@@ -210,7 +210,7 @@
         "featured_collection_yX3wVA": {
           "type": "featured_collection",
           "settings": {
-            "collection": "promo-jan-2024"
+            "collection": "promo-wheel-loader"
           }
         },
         "template--15856473571524__1cb87065-dbb6-41e5-bb48-ec8ed0ed3f8d-featured_collection-1": {

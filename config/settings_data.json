@@ -110,7 +110,7 @@
             "type": "block",
             "settings": {
               "content": "<p>Buy a WHEEL LOADER and get a PAPYHOBBY Pusher Snowplow for FREE!<\/p>",
-              "link": "shopify:\/\/collections\/promo-jan-2024"
+              "link": "shopify:\/\/collections\/promo-wheel-loader"
             }
           },
           "f7579f87-bf3c-4c53-9a56-533113ce2d77": {
@@ -305,20 +305,8 @@
         "settings": {
         }
       },
-      "17879804940089559835": {
-        "type": "shopify:\/\/apps\/spurit-cart-upsell\/blocks\/app-embed\/53b2c0ed-aaab-431f-86d1-cfde636225d3",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "534977871531306417": {
         "type": "shopify:\/\/apps\/tnc-terms-and-conditions-box\/blocks\/app-embed\/2b45c8fb-5ee2-4392-8a72-b663da1d38ad",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "5918445685253060206": {
-        "type": "shopify:\/\/apps\/bundler\/blocks\/bundler-script-append\/7a6ae1b8-3b16-449b-8429-8bb89a62c664",
         "disabled": false,
         "settings": {
         }
