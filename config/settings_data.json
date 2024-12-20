@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "alternateHeader_bg_color": "#212121",
@@ -37,14 +46,14 @@
     "popup_delay": 10,
     "popup_return": "7",
     "entry_popup_heading": "Be the first to know...",
-    "entry_popup_top_text": "<p>Sign up for our newsletter to receive exclusive offers and coupons.<\/p>",
-    "popup_logo": "shopify:\/\/shop_images\/footer-bg.jpg",
+    "entry_popup_top_text": "<p>Sign up for our newsletter to receive exclusive offers and coupons.</p>",
+    "popup_logo": "shopify://shop_images/footer-bg.jpg",
     "popup_image_position": "right",
     "entry_popup_newsletter": true,
     "entry_popup_showFormLabels": true,
     "entry_popup_social": true,
     "enable_cookie_popup": false,
-    "cookie_popup_content": "<p>This site uses cookies to enhance user experience.This site uses cookies to enhance user experience.This site uses cookies to enhance user experience.This site uses cookies to enhance user experience.This site uses cookies to enhance user experience.This site uses cookies to enhance user experience.This site uses cookies to enhance user experience.<\/p>",
+    "cookie_popup_content": "<p>This site uses cookies to enhance user experience.This site uses cookies to enhance user experience.This site uses cookies to enhance user experience.This site uses cookies to enhance user experience.This site uses cookies to enhance user experience.This site uses cookies to enhance user experience.This site uses cookies to enhance user experience.</p>",
     "search_mode": "product,article,page",
     "cart_type": "drawer",
     "header_cart_icon_style": "cart",
@@ -75,24 +84,24 @@
     "custom_price0_text": "Contact us",
     "hide_price0_box_and_button": true,
     "author_name_1": "PAPYHOBBY",
-    "author_logo_1": "shopify:\/\/shop_images\/t4.jpg",
+    "author_logo_1": "shopify://shop_images/t4.jpg",
     "author_biography_1": "",
     "author_name_2": "Alain Bradet",
-    "author_logo_2": "shopify:\/\/shop_images\/t6.jpg",
+    "author_logo_2": "shopify://shop_images/t6.jpg",
     "author_biography_2": "",
     "share_twitter": true,
     "share_pinterest": true,
     "social_twitter_link": "",
-    "social_facebook_link": "https:\/\/facebook.com\/papyhobby",
+    "social_facebook_link": "https://facebook.com/papyhobby",
     "social_pinterest_link": "",
-    "social_instagram_link": "http:\/\/instagram.com\/papyhobby",
+    "social_instagram_link": "http://instagram.com/papyhobby",
     "social_tumblr_link": "",
-    "social_snapchat_link": "https:\/\/www.snapchat.com\/add\/papyhobby",
-    "social_youtube_link": "https:\/\/www.youtube.com\/@papyhobby",
+    "social_snapchat_link": "https://www.snapchat.com/add/papyhobby",
+    "social_youtube_link": "https://www.youtube.com/@papyhobby",
     "social_vimeo_link": "",
     "currency_code_enable": true,
-    "favicon": "shopify:\/\/shop_images\/logo-2k24-01_-_700x1024_339a7cdb-4220-4351-9919-524a6337faa6.png",
-    "customer_header_image": "shopify:\/\/shop_images\/logo-2k24-01-Grey-Bkgrnd-700x1024_b9a34cd0-699f-42a5-9aea-53ace1e94f96.png",
+    "favicon": "shopify://shop_images/logo-2k24-01_-_700x1024_339a7cdb-4220-4351-9919-524a6337faa6.png",
+    "customer_header_image": "shopify://shop_images/logo-2k24-01-Grey-Bkgrnd-700x1024_b9a34cd0-699f-42a5-9aea-53ace1e94f96.png",
     "customer_image_overlay_color": "#000",
     "customer_image_overlay_opacity": 60,
     "show_customer_breadcrumbs": true,
@@ -109,16 +118,16 @@
           "7387d40b-469e-4369-a613-0d11c4b82689": {
             "type": "block",
             "settings": {
-              "content": "<p>Buy a WHEEL LOADER and get a PAPYHOBBY Pusher Snowplow for FREE!<\/p>",
-              "link": "shopify:\/\/collections\/promo-wheel-loader"
+              "content": "<p>Buy a WHEEL LOADER and get a PAPYHOBBY Pusher Snowplow for FREE!</p>",
+              "link": "shopify://collections/promo-wheel-loader"
             }
           },
           "f7579f87-bf3c-4c53-9a56-533113ce2d77": {
             "type": "block",
             "disabled": true,
             "settings": {
-              "content": "<p><strong>Be ready for our Design Contest<\/strong><\/p>",
-              "link": "shopify:\/\/pages\/contest-i-got-an-idea"
+              "content": "<p><strong>Be ready for our Design Contest</strong></p>",
+              "link": "shopify://pages/contest-i-got-an-idea"
             }
           }
         },
@@ -145,7 +154,7 @@
               "menu_item": "Test Menu",
               "image_1_heading": "Your image",
               "image_1_text": "Tell your story",
-              "image_1_link": "shopify:\/\/blogs\/news\/production-1-50-larue-d55-snow-blower",
+              "image_1_link": "shopify://blogs/news/production-1-50-larue-d55-snow-blower",
               "image_2_heading": "Your image",
               "image_2_text": "Tell your story",
               "image_2_link": ""
@@ -161,7 +170,7 @@
           "header_fallback_image_opacity": 40,
           "enable_header_fallback_image": true,
           "show_top_line_separator": true,
-          "logo": "shopify:\/\/shop_images\/logo-2k24-01-Contour-700x1024v2.jpg",
+          "logo": "shopify://shop_images/logo-2k24-01-Contour-700x1024v2.jpg",
           "logo_max_width": 250,
           "main_linklist": "",
           "main_linklist_style": "none",
@@ -186,7 +195,7 @@
             "settings": {
               "icon": "pencil",
               "heading": "Custom Design",
-              "content": "<p>At PAPYHOBBY, we start our creative journey with an idea, sketch, or image. Our precise attention to detail and unwavering commitment to excellence will result in a sophisticated and precisely crafted design.<\/p>"
+              "content": "<p>At PAPYHOBBY, we start our creative journey with an idea, sketch, or image. Our precise attention to detail and unwavering commitment to excellence will result in a sophisticated and precisely crafted design.</p>"
             }
           },
           "7d5cc56a-0113-420e-affb-1c7a52b1beed": {
@@ -195,7 +204,7 @@
             "settings": {
               "icon": "industry",
               "heading": "Manufacturer",
-              "content": "<p>PAPYHOBBY is dedicated to crafting refined products from raw materials through the utilization of diverse tools,  equipment, and processes. Subsequently, PAPYHOBBY offers these goods to consumers, wholesalers, distributors,  retailers, or other manufacturers  for the creation of more intricate products<\/p>"
+              "content": "<p>PAPYHOBBY is dedicated to crafting refined products from raw materials through the utilization of diverse tools,  equipment, and processes. Subsequently, PAPYHOBBY offers these goods to consumers, wholesalers, distributors,  retailers, or other manufacturers  for the creation of more intricate products</p>"
             }
           },
           "71bd4ca2-1195-4071-a36c-f7efc3f39dd8": {
@@ -204,7 +213,7 @@
             "settings": {
               "icon": "hands-holding-circle",
               "heading": "Production",
-              "content": "<p>At PAPYHOBBY, we excel in crafting using techniques like 3D FDM and SLA Printing, Resin Casting, Resin 3D Printing, and Laser Cut and Engrave. We start with meticulous molding and scratch building, emphasizing patience and accuracy.<\/p><p>Our 3D printing techniques bring designs to life with precision, while Resin Casting allows us to replicate with exact detail. Resin 3D Printing captures fine nuances, turning imagination into reality. Laser Cut and Engrave techniques add another layer of intricacy to our creations.<\/p><p>Molds serve as our canvas, showcasing our commitment to craftsmanship. At PAPYHOBBY, each creation reflects our dedication to patient and accurate artistry.<\/p>"
+              "content": "<p>At PAPYHOBBY, we excel in crafting using techniques like 3D FDM and SLA Printing, Resin Casting, Resin 3D Printing, and Laser Cut and Engrave. We start with meticulous molding and scratch building, emphasizing patience and accuracy.</p><p>Our 3D printing techniques bring designs to life with precision, while Resin Casting allows us to replicate with exact detail. Resin 3D Printing captures fine nuances, turning imagination into reality. Laser Cut and Engrave techniques add another layer of intricacy to our creations.</p><p>Molds serve as our canvas, showcasing our commitment to craftsmanship. At PAPYHOBBY, each creation reflects our dedication to patient and accurate artistry.</p>"
             }
           },
           "f6efdd2c-06b6-4e37-a6dc-a7f6b48f8e37": {
@@ -213,7 +222,7 @@
             "settings": {
               "icon": "thumbtack",
               "heading": "In Stock accuraty",
-              "content": "<p>Content text<\/p>"
+              "content": "<p>Content text</p>"
             }
           },
           "cc6c26ca-0560-4408-a15d-4fdb87fc8a04": {
@@ -259,9 +268,7 @@
           "c87ff8c9-986c-414f-b683-8405ecfe8cf9",
           "74c8113b-d327-4497-91fc-d188b970d6a6"
         ],
-        "custom_css": [
-
-        ],
+        "custom_css": [],
         "settings": {
           "bg_opacity": 55,
           "show_copyright_note": true,
@@ -295,37 +302,32 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "14060646107696862457": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "534977871531306417": {
-        "type": "shopify:\/\/apps\/tnc-terms-and-conditions-box\/blocks\/app-embed\/2b45c8fb-5ee2-4392-8a72-b663da1d38ad",
+        "type": "shopify://apps/tnc-terms-and-conditions-box/blocks/app-embed/2b45c8fb-5ee2-4392-8a72-b663da1d38ad",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "6089888571350127878": {
-        "type": "shopify:\/\/apps\/seo-king\/blocks\/seo-king-disable-click\/4aa30173-495d-4e49-b377-c5ee4024262f",
+        "type": "shopify://apps/seo-king/blocks/seo-king-disable-click/4aa30173-495d-4e49-b377-c5ee4024262f",
         "disabled": true,
         "settings": {
           "advanced": true
         }
       },
       "9144908965052497053": {
-        "type": "shopify:\/\/apps\/glo-related-products-upsell\/blocks\/app-embed\/75cf2d86-3988-45e7-8f28-ada23c99704f",
+        "type": "shopify://apps/glo-related-products-upsell/blocks/app-embed/75cf2d86-3988-45e7-8f28-ada23c99704f",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "5151619994548219592": {
-        "type": "shopify:\/\/apps\/make-an-offer\/blocks\/magical-make-an-offer\/9b6ed53c-59d2-484e-8125-6e50d1657169",
+        "type": "shopify://apps/make-an-offer/blocks/magical-make-an-offer/9b6ed53c-59d2-484e-8125-6e50d1657169",
         "disabled": false,
         "settings": {
           "font": "abel_n4",
@@ -353,6 +355,11 @@
           "color_border_critical": "#c5280c",
           "color_text_critical": "#d72c0d"
         }
+      },
+      "5182184951224911228": {
+        "type": "shopify://apps/rapid-search/blocks/script/bd827795-feaa-41a8-9219-2b83f238aa7d",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
@@ -391,13 +398,13 @@
       "popup_delay": 0,
       "popup_return": "7",
       "entry_popup_heading": "Be the first to know...",
-      "entry_popup_top_text": "<p>Sign up for our newsletter to receive exclusive offers and coupons.<\/p>",
-      "popup_logo": "shopify:\/\/shop_images\/footer-bg.jpg",
+      "entry_popup_top_text": "<p>Sign up for our newsletter to receive exclusive offers and coupons.</p>",
+      "popup_logo": "shopify://shop_images/footer-bg.jpg",
       "popup_image_position": "right",
       "entry_popup_newsletter": true,
       "entry_popup_social": true,
       "enable_cookie_popup": false,
-      "cookie_popup_content": "<p>This site uses cookies to enhance user experience.This site uses cookies to enhance user experience.This site uses cookies to enhance user experience.This site uses cookies to enhance user experience.This site uses cookies to enhance user experience.This site uses cookies to enhance user experience.This site uses cookies to enhance user experience.<\/p>",
+      "cookie_popup_content": "<p>This site uses cookies to enhance user experience.This site uses cookies to enhance user experience.This site uses cookies to enhance user experience.This site uses cookies to enhance user experience.This site uses cookies to enhance user experience.This site uses cookies to enhance user experience.This site uses cookies to enhance user experience.</p>",
       "search_mode": "product,article,page",
       "cart_type": "drawer",
       "header_cart_icon_style": "basket",
@@ -424,19 +431,19 @@
       "custom_price0_text": "Free",
       "hide_price0_box_and_button": false,
       "author_name_1": "",
-      "author_logo_1": "shopify:\/\/shop_images\/t4.jpg",
+      "author_logo_1": "shopify://shop_images/t4.jpg",
       "author_biography_1": "",
       "author_name_2": "",
-      "author_logo_2": "shopify:\/\/shop_images\/t6.jpg",
+      "author_logo_2": "shopify://shop_images/t6.jpg",
       "author_biography_2": "",
-      "social_twitter_link": "https:\/\/twitter.com\/shopify",
-      "social_facebook_link": "https:\/\/facebook.com\/shopify",
-      "social_pinterest_link": "https:\/\/pinterest.com\/shopify",
-      "social_instagram_link": "http:\/\/instagram.com\/shopify",
-      "social_tumblr_link": "http:\/\/shopify.tumblr.com",
-      "social_snapchat_link": "https:\/\/www.snapchat.com\/add\/shopify",
-      "social_youtube_link": "https:\/\/www.youtube.com\/shopify",
-      "social_vimeo_link": "https:\/\/vimeo.com\/shopify",
+      "social_twitter_link": "https://twitter.com/shopify",
+      "social_facebook_link": "https://facebook.com/shopify",
+      "social_pinterest_link": "https://pinterest.com/shopify",
+      "social_instagram_link": "http://instagram.com/shopify",
+      "social_tumblr_link": "http://shopify.tumblr.com",
+      "social_snapchat_link": "https://www.snapchat.com/add/shopify",
+      "social_youtube_link": "https://www.youtube.com/shopify",
+      "social_vimeo_link": "https://vimeo.com/shopify",
       "currency_code_enable": false,
       "customer_image_overlay_color": "#000",
       "show_customer_breadcrumbs": true,
@@ -449,11 +456,11 @@
       "popup_delay": 3,
       "popup_return": "7",
       "entry_popup_heading": "Adventure awaits!",
-      "entry_popup_top_text": "<p>Sign up for our newsletter in order to receive exclusive coupons and special offers.<\/p>",
-      "popup_logo": "shopify:\/\/shop_images\/entry-popup.jpg",
+      "entry_popup_top_text": "<p>Sign up for our newsletter in order to receive exclusive coupons and special offers.</p>",
+      "popup_logo": "shopify://shop_images/entry-popup.jpg",
       "popup_image_position": "left",
       "enable_cookie_popup": false,
-      "cookie_popup_content": "<p>Cookie Popup Content<\/p>",
+      "cookie_popup_content": "<p>Cookie Popup Content</p>",
       "custom_price0_text": "Free",
       "hide_price0_box_and_button": false,
       "hide_prices": false,
@@ -497,14 +504,14 @@
       "empty_cart_featured_collection_1": "apparel",
       "empty_cart_featured_collection_2": "bike-helmets",
       "empty_cart_featured_collection_3": "goggles",
-      "social_twitter_link": "https:\/\/twitter.com\/shopify",
-      "social_facebook_link": "https:\/\/facebook.com\/shopify",
-      "social_pinterest_link": "https:\/\/pinterest.com\/shopify",
-      "social_instagram_link": "http:\/\/instagram.com\/shopify",
-      "social_tumblr_link": "http:\/\/shopify.tumblr.com",
-      "social_snapchat_link": "https:\/\/www.snapchat.com\/add\/shopify",
-      "social_youtube_link": "https:\/\/www.youtube.com\/shopify",
-      "social_vimeo_link": "https:\/\/vimeo.com\/shopify",
+      "social_twitter_link": "https://twitter.com/shopify",
+      "social_facebook_link": "https://facebook.com/shopify",
+      "social_pinterest_link": "https://pinterest.com/shopify",
+      "social_instagram_link": "http://instagram.com/shopify",
+      "social_tumblr_link": "http://shopify.tumblr.com",
+      "social_snapchat_link": "https://www.snapchat.com/add/shopify",
+      "social_youtube_link": "https://www.youtube.com/shopify",
+      "social_vimeo_link": "https://vimeo.com/shopify",
       "discount_mode": "percentage",
       "align_height": true,
       "collection_height": 200,
@@ -550,10 +557,10 @@
       "show_entry_popup": true,
       "popup_delay": 3,
       "popup_return": "7",
-      "entry_popup_top_text": "<p>Description<\/p>",
+      "entry_popup_top_text": "<p>Description</p>",
       "popup_image_position": "left",
       "enable_cookie_popup": false,
-      "cookie_popup_content": "<p>Cookie Popup Content<\/p>",
+      "cookie_popup_content": "<p>Cookie Popup Content</p>",
       "cart_type": "drawer",
       "header_cart_icon_style": "cart",
       "show_header_cart_subtotal": false,
@@ -573,14 +580,14 @@
       "hide_cart_icon": false,
       "custom_price0_text": "Free",
       "hide_price0_box_and_button": false,
-      "social_twitter_link": "https:\/\/twitter.com\/shopify",
-      "social_facebook_link": "https:\/\/facebook.com\/shopify",
-      "social_pinterest_link": "https:\/\/pinterest.com\/shopify",
-      "social_instagram_link": "http:\/\/instagram.com\/shopify",
-      "social_tumblr_link": "http:\/\/shopify.tumblr.com",
-      "social_snapchat_link": "https:\/\/www.snapchat.com\/add\/shopify",
-      "social_youtube_link": "https:\/\/www.youtube.com\/shopify",
-      "social_vimeo_link": "https:\/\/vimeo.com\/shopify",
+      "social_twitter_link": "https://twitter.com/shopify",
+      "social_facebook_link": "https://facebook.com/shopify",
+      "social_pinterest_link": "https://pinterest.com/shopify",
+      "social_instagram_link": "http://instagram.com/shopify",
+      "social_tumblr_link": "http://shopify.tumblr.com",
+      "social_snapchat_link": "https://www.snapchat.com/add/shopify",
+      "social_youtube_link": "https://www.youtube.com/shopify",
+      "social_vimeo_link": "https://vimeo.com/shopify",
       "cookie_popup_heading": "Cookie Popup Heading",
       "show_vendor": true,
       "enable_ajax": true
@@ -588,7 +595,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".productBoughtTogether {border: 1px solid #8a9297; \/* You can replace #000 with the color of your choice *\/ padding: 10px; \/* Optional: Add padding for better visual appearance *\/}"
+      ".productBoughtTogether {border: 1px solid #8a9297; /* You can replace #000 with the color of your choice */ padding: 10px; /* Optional: Add padding for better visual appearance */}"
     ]
   }
 }
